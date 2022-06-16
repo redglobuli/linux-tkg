@@ -101,7 +101,7 @@ case $_basever in
         	0012-misc-additions.patch
 	)
 	sha256sums=('bf338980b1670bca287f9994b7441c2361907635879169c64ae78364efc5f491'
-            '6d3f24eb8e2f973ffa428d8d2e48d06f05bbd7c934f847ad3b446af9260b5651'
+            '66173dd6d0a591cccf747b84ebb8ac2ed5b3f71c38f2d50e8db69c7a6310edfb'
             '0cac0982891eb779a5bfa5486bc713166a6033b8faea33253b78b23ffa9dc475'
             '1f4a20d6eaaa0d969af93152a65191492400c6aa838fc1c290b0dd29bb6019d8'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -307,7 +307,7 @@ case $_basever in
         0012-misc-additions.patch
     )
     sha256sums=('dcdf99e43e98330d925016985bfbc7b83c66d367b714b2de0cbbfcbf83d8ca43'
-            'b29a06549b9d4b0d66f800932037229415eddf0d8344a6ae05b82ec055d58686'
+            '03e07481417ac4367b6addcd5b09b97681a6fa3e2a4318edefdaaf5b1870e881'
             '909bf62e52ed10e179e1f9a75e43af63830f492a641c9b319bfea23e1da16706'
             'eb1da1a028a1c967222b5bdac1db2b2c4d8285bafd714892f6fc821c10416341'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -610,7 +610,7 @@ case $_basever in
         0002-mm-Support-soft-dirty-flag-read-with-reset.patch
     )
     sha256sums=('57b2cf6991910e3b67a1b3490022e8a0674b6965c74c12da1e99d138d1991ee8'
-            '1a9a61db4b613190278cc1a4ba77bd597feaae8c4276e0c6103fcacc78b09c5a'
+            '2490262bdcfc28df4903cdba9b651a7f1b695c005f4663b0ca54a180022b4065'
             '0949fcb547814192136cf3327aa85e0c737dae239535a23e6b5395ecc763ea1d'
             '6e3ef6bc4779ae3b7154642147d5ab3ece6e38e3e08bdb30f86d89d2b4855fa9'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -768,7 +768,7 @@ case $_basever in
         0002-mm-Support-soft-dirty-flag-read-with-reset.patch
     )
     sha256sums=('d58cbfc41bf8672b0ce9c9f129578c18bfecbdeb4684c581e191345cb2aa95f1'
-            '63b32158ca369f104a80543b9b8e553c761c49f93da40eae91c8675af01b560b'
+            'fb0c52d5628f332ffe10ebaa1419c7518198f4ffe757e39c9a80229b480a36ca'
             '5dc559ed91c7d6e6c2893cad0819dfcf09e9792115bc69658891a5e9e902971f'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
             '66a03c246037451a77b4d448565b1d7e9368270c7d02872fbd0b5d024ed0a997'
