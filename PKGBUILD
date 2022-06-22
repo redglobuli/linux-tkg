@@ -768,7 +768,7 @@ case $_basever in
         0002-mm-Support-soft-dirty-flag-read-with-reset.patch
     )
     sha256sums=('d58cbfc41bf8672b0ce9c9f129578c18bfecbdeb4684c581e191345cb2aa95f1'
-            'fb0c52d5628f332ffe10ebaa1419c7518198f4ffe757e39c9a80229b480a36ca'
+            'e82bb2d4fc7da3cfdaec1ba3e1c03591b0a29a51f01477f977ba9bb71bad49fa'
             '5dc559ed91c7d6e6c2893cad0819dfcf09e9792115bc69658891a5e9e902971f'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
             '66a03c246037451a77b4d448565b1d7e9368270c7d02872fbd0b5d024ed0a997'
