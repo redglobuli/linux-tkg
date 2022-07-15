@@ -101,7 +101,7 @@ case $_basever in
         	0012-misc-additions.patch
 	)
 	sha256sums=('bf338980b1670bca287f9994b7441c2361907635879169c64ae78364efc5f491'
-            '66ddec33d46c9864320e049a5904f82ec8998f5dedacca09370c06b45cf247be'
+            'd55910209e5f601d023183bcd77c28fa03bb4a7a52d64b325fb0a958c6959c45'
             '0cac0982891eb779a5bfa5486bc713166a6033b8faea33253b78b23ffa9dc475'
             '1f4a20d6eaaa0d969af93152a65191492400c6aa838fc1c290b0dd29bb6019d8'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -307,7 +307,7 @@ case $_basever in
         0012-misc-additions.patch
     )
     sha256sums=('dcdf99e43e98330d925016985bfbc7b83c66d367b714b2de0cbbfcbf83d8ca43'
-            '6d7330fe6b86acdc7d196404985fd0e0811b03568a960e6d8edcc84a8d343490'
+            'b0391f5e9f59c2cfe5ed3cc25f7073bb1ebf5ef44b95e84047d0db00a6f98d1d'
             '909bf62e52ed10e179e1f9a75e43af63830f492a641c9b319bfea23e1da16706'
             'eb1da1a028a1c967222b5bdac1db2b2c4d8285bafd714892f6fc821c10416341'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -610,7 +610,7 @@ case $_basever in
         0002-mm-Support-soft-dirty-flag-read-with-reset.patch
     )
     sha256sums=('57b2cf6991910e3b67a1b3490022e8a0674b6965c74c12da1e99d138d1991ee8'
-            'a5a78639c8f406db576cc702aac39baf366e4bcac7e5b305e1335d4294bda3a2'
+            '26df6175f7ac5407db1644217ce41e6f6d7260e5d436e2b3859d6edbb251c4b6'
             '0949fcb547814192136cf3327aa85e0c737dae239535a23e6b5395ecc763ea1d'
             '6e3ef6bc4779ae3b7154642147d5ab3ece6e38e3e08bdb30f86d89d2b4855fa9'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
@@ -768,7 +768,7 @@ case $_basever in
         0002-mm-Support-soft-dirty-flag-read-with-reset.patch
     )
     sha256sums=('d58cbfc41bf8672b0ce9c9f129578c18bfecbdeb4684c581e191345cb2aa95f1'
-            '97985d52742c19b157110d37d79c42b67a3459107529cccbed8c49430ce0f203'
+            'cefa48de438430b42f77c7f134f873c65fe2c7ea69c70188409986bceee49e40'
             '5dc559ed91c7d6e6c2893cad0819dfcf09e9792115bc69658891a5e9e902971f'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
             '66a03c246037451a77b4d448565b1d7e9368270c7d02872fbd0b5d024ed0a997'
