@@ -307,7 +307,7 @@ case $_basever in
         0012-misc-additions.patch
     )
     sha256sums=('dcdf99e43e98330d925016985bfbc7b83c66d367b714b2de0cbbfcbf83d8ca43'
-            '2cf2caf3819b046c7cc04ee3e02260f3ef1fe904a63dd6e2d00f1efd8276c8f2'
+            'aff0a8ee310e5410fb16272d74b37aafe2968cfcc2fc6983391ff22e7679611d'
             '909bf62e52ed10e179e1f9a75e43af63830f492a641c9b319bfea23e1da16706'
             'eb1da1a028a1c967222b5bdac1db2b2c4d8285bafd714892f6fc821c10416341'
             '1e15fc2ef3fa770217ecc63a220e5df2ddbcf3295eb4a021171e7edd4c6cc898'
